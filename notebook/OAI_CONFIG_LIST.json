@@ -1,0 +1,9 @@
+[
+    {
+      "model": "gpt-3.5-turbo",
+      "api_key": "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",
+      "api_type": "azure",
+      "api_base": "https://api.openai.com/v1/",
+      "api_version": "2023-03-15-preview"
+    }
+  ]
